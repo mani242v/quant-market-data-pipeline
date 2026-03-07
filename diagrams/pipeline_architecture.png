@@ -1,0 +1,16 @@
+Yahoo Finance API
+        ↓
+Python Data Ingestion
+(fetch_market_data.py)
+        ↓
+Feature Engineering
+(process_market_data.py)
+        ↓
+Snowflake Data Warehouse
+(STOCK_PRICES table)
+        ↓
+SQL Analytics
+(analytics_queries.sql)
+        ↓
+Insights / Strategy Signals
+
